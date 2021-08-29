@@ -3,6 +3,10 @@
     background-color: #8FBC8F;
     color: 	#2F4F4F;
     margin: auto;
-    padding: 10px
+    padding-left: 20px;
     text align="start";
+}
+
+.container{
+    padding-right: 20px;
 }
